@@ -10,3 +10,6 @@ I took on the challenge of working with the Tokyo Olympics Data sourced from Kag
 🔐 Managing permissions became a vital part of the process. With Azure Active Directory and app registration, I ensured secure access between Azure Data Storage and Databricks, enabling a streamlined and secure data pipeline.
 
 📊 The journey reached its peak with Power BI, where I brought the data to life through insightful visualizations. 📈
+
+
+![pipeline](https://github.com/R4az/tokyo-olympic-azure-data-engineering-project/assets/98613908/45bab580-5fb6-4111-a301-81299f154d6b)
